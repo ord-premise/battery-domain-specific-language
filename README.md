@@ -1,10 +1,11 @@
-# D#.# - Title
+# D3.3 -  Domain-specific language for battery assembly and testing, and its implementation in a hardware scheduler
 
 Short description of deliverable
 
 ## Authors
 
-List of authors/contributors
+- [Nukorn Plainpan](nukorn.plainpan@empa.ch) (Empa, Switzerland)
+- [Corsin Battaglia](corsin.battaglia@empa.ch) (Empa, Switzeralnd) 
 
 ## Goal
 
