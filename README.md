@@ -1,6 +1,8 @@
 # D3.3 -  Domain-specific language for battery assembly and testing, and its implementation in a hardware scheduler
 
-Short description of deliverable
+A domain-specific language (DSL) for battery assembly and testing, along with its implementation in battery cyclers, is crucial for ensuring interoperability in battery research across different research groups and institutions. However, the significant workload involved in developing a standardized DSL often outweighs the perceived individual benefits of data interoperability for researchers. This leads to various competing standards for battery assembly and testing.
+
+This repository provides a living document, developed and continuously updated within the PREMISE project, outlining a tool designed to help standardize the language researchers use for battery assembly and testing.
 
 ## Authors
 
