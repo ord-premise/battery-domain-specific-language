@@ -20,7 +20,8 @@ Describe here how this repository achieves the above goal.
 ## External links
 
 - [BattINFO converter web application](https://battinfoconverter.streamlit.app/)  
-- [BattINFO converter github repository](https://github.com/EmpaEconversion/BattInfoConverter)
+- [BattINFO converter github repository](https://github.com/EmpaEconversion/BattInfoConverter)  
+- [BattINFO ontology github repository](https://github.com/BIG-MAP/BattINFO)
 
 ## Acknowledgements
 
