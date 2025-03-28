@@ -15,14 +15,14 @@ To provide a tool that enables individual researchers to semantically annotate t
 
 ## Achievement
 
-We have upgraded the .xlsx schema to now cover the metadata for battery testing. We also upgraded our Python script for converting .xlsx schema to JSON-LD into a Python-based web application, namely the [BattINFO Converter](https://battinfoconverter.streamlit.app/). This web application allows the user to convert .xlsx schemas to JSON-LD documents without the need to install Python on the local machine, lowering the barrier to entry for non-technical users. BattINFO Converter also allows users to modify the .xlsx schemas to suit the battery chemistry of their choice, thus allowing an even larger audience to apply the DSL in their research. The documentation on how to use BattINFO Converter and customize .xlsx schemas is provided on the BattINFO Converter page. The philosophy behind the BattINFO Converter is detailed in an article submitted to the journal of Batteries & Supercaps for peer review and is currently in revision. We are presently integrating the BattINFO Converter into a battery cycling pipeline at Empa.
+We have upgraded the .xlsx schema to now cover the metadata for battery testing. We also upgraded our Python script for converting .xlsx schema to JSON-LD into a Python-based web application, namely the [BattINFO converter](https://battinfoconverter.streamlit.app/). This web application allows the user to convert .xlsx schemas to JSON-LD documents without the need to install Python on the local machine, lowering the barrier to entry for non-technical users. BattINFO converter also allows users to modify the .xlsx schemas to suit the battery chemistry of their choice, thus allowing an even larger audience to apply the DSL in their research. The documentation on how to use BattINFO converter and customize .xlsx schemas is provided on the BattINFO converter page. The philosophy behind the BattINFO converter is detailed in an article submitted to the journal of Batteries & Supercaps for peer review and is currently in revision. We are presently integrating the BattINFO converter into a battery cycling pipeline at Empa.
 
 
 ## External links
 
 - [BattINFO converter web application](https://battinfoconverter.streamlit.app/)  
-- [BattINFO converter github repository](https://github.com/EmpaEconversion/BattInfoConverter)  
-- [BattINFO ontology github repository](https://github.com/BIG-MAP/BattINFO)
+- [BattINFO converter GitHub repository](https://github.com/EmpaEconversion/BattInfoConverter)  
+- [BattINFO ontology](https://github.com/BIG-MAP/BattINFO)
 
 ## Acknowledgements
 
