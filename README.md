@@ -20,9 +20,9 @@ We have upgraded the .xlsx schema to now cover the metadata for battery testing.
 
 ## External links
 
-- [BattINFO converter web application](https://battinfoconverter.streamlit.app/)  
-- [BattINFO converter GitHub repository](https://github.com/EmpaEconversion/BattInfoConverter)  
-- [BattINFO ontology](https://github.com/BIG-MAP/BattINFO)
+- [BattINFO converter webapp](https://battinfoconverter.streamlit.app/)  
+- [BattINFO converter repo](https://github.com/EmpaEconversion/BattInfoConverter)  
+- [BattINFO ontology repo](https://github.com/BIG-MAP/BattINFO)
 
 ## Acknowledgements
 
