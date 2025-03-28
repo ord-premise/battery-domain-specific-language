@@ -5,8 +5,8 @@ A domain-specific language (DSL) can be regarded as a standardized language that
 
 ## Authors
 
-- Nukorn Plainpan (Empa, Switzerland)
-- Corsin Battaglia (Empa, Switzeralnd) 
+- Nukorn Plainpan (Empa)
+- Corsin Battaglia (Empa) 
 
 ## Goal
 
